@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.min{
+    text-align: center;
+}
+
+h1{
+    margin-top: 2rem;
+}
+
+h3{
+    margin-top: 1rem;
+}
+
+input{
+    margin-top: 0.3rem;
+}
+
+button{
+    margin-top: 1rem;
+}
+
+#p1{
+    margin-top: 1rem;
+}
